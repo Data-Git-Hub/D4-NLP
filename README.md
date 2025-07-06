@@ -70,5 +70,6 @@ Contributors names and contact info <br>
 ---
 
 ## Version History
+- P4 Finl - 1.0 - Modify README.md
 - D4 Init - 0.0 - Create D4-NLP.ipynb, requirements.txt; Modify README.md
 ## Test History
